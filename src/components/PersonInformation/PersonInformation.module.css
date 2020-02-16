@@ -1,0 +1,17 @@
+.infoWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 100%;
+    position: fixed;
+    right: 0;
+    top: 0;
+    padding: 10px 0;
+    background-color: #FFBF00;
+    color: black;
+    font-size: 18px;
+    z-index: 100;
+    
+}
